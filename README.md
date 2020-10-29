@@ -24,15 +24,15 @@ Dann gib meiner Schildkröte einen Namen!
 
 # Schritte 3: Verwenden einer Schleife, um eine Form und Spiralmuster zu erstellen
 
-*for i in range()
+*for i in range()*
   
-  name.forward ()
+*name.forward ()*
   
-  name.backward()
+*name.backward()*
   
-  name.right ()
+*name.right()*
   
-  name.left()*
+*name.left()*
   
 
 # Schritte 4:  Ändern der Stiftfarbe nach dem Zufallsprinzip
