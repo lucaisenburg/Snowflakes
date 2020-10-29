@@ -25,9 +25,13 @@ Dann gib meiner Schildkröte einen Namen!
 # Schritte 3: Verwenden einer Schleife, um eine Form und Spiralmuster zu erstellen
 
 *for i in range()
+  
   name.forward ()
+  
   name.backward()
+  
   name.right ()
+  
   name.left()*
   
 
@@ -39,7 +43,7 @@ Um ein Zufallsprinzip zu haben, importieren wir *random* Bilbiothek.
 
 Wir haben uns für die Farbe Cyan aus dieser Liste entschieden:"cyan", "purple", "white", "blue".
 
-So stellen wir die Farbe des Hintergrunds ein
+So stellen wir die Farbe des Hintergrunds ein:
 
 *turtle.Screen().bgcolor("white")*
 
